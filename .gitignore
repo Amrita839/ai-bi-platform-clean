@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+bi_platform.db
+reports/*.pdf
+reports/*.xlsx
+saved_models/
